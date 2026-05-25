@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-of-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shadows Of Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-of-desire/) |
+| **Get License** | [Request Licensing for Shadows Of Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-of-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9521f3677d1a931101cbeb76bb05cd5e642b4f87e20dccb928c9f04088ef374c` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

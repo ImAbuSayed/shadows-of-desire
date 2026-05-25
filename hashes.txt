@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadows Of Desire
+
+This log tracks the cryptographic history and versioning for the song **Shadows Of Desire** (shadows-of-desire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:08:57.888220 | `v1` | `9521f3677d1a931101cbeb76bb05cd5e642b4f87e20dccb928c9f04088ef374c` | `97162e7859ffb4dffc6fa778f7ff7c33f073f8718af95a4dfaf2be604d9dd58b` | `2026-05-25_shadows-of-desire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
